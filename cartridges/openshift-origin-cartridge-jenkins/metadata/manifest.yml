@@ -13,7 +13,7 @@ Cartridge-Version: 0.0.19
 Compatible-Versions:
 - 0.0.17
 - 0.0.18
-Cartridge-Vendor: redhat
+Cartridge-Vendor: ossimlabs
 Categories:
 - web_framework
 - instant_app
